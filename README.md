@@ -1,5 +1,11 @@
 # ShellBalt
 
+----
+
+**Support for 3.67 is now included in nowrep's repository!**
+
+----
+
 taiHEN plugin that shows battery percent in statusbar
 
 ![Screenshot](https://github.com/nowrep/vita-shellbat/blob/master/doc/screenshot.jpg?raw=true)
